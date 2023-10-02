@@ -1,6 +1,6 @@
-package agent;
+package Lab1;
 
-import agent.Action;
+import Lab1.Action;
 
 public class Agent {
 	private AgentProgram program;

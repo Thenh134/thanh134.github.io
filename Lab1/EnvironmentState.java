@@ -1,9 +1,9 @@
-package agent;
+package Lab1;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import agent.Environment.LocationState;
+import Lab1.Environment.LocationState;
 
 public class EnvironmentState {
 	private Map<String, Environment.LocationState> state = new HashMap<String, Environment.LocationState>();

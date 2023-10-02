@@ -1,8 +1,8 @@
-package agent;
+package Lab1;
 
 import java.util.Random;
 
-import agent.Environment.LocationState;
+import Lab1.Environment.LocationState;
 
 public class AgentProgram {
 
